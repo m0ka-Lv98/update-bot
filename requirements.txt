@@ -1,0 +1,5 @@
+Flask==0.12.2
+line-bot-sdk==1.8.0
+tweepy==3.10.0
+apscheduler==3.7.0
+pyyaml==5.3.1
